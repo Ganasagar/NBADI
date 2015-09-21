@@ -20,7 +20,7 @@
         </div>
         <div class="foot">
             <footer>
-                @copy; Researchers Exchange Participation
+                @copy; Researchers Exchange Participation changed by sheru
             </footer>
         </div>
     </body>
