@@ -1,0 +1,1 @@
+<nav> <div id="navi"> <ul> <li><a href="action.jsp">View by Action</a></li> <li><a href="api.jsp">View by API</a></li> <li><a href="difference.jsp">Difference</a></li> <li><a href="intersection.jsp">Intersection</a></li> </ul> </div> </nav>

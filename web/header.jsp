@@ -13,15 +13,18 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <div class="heading">
+       
             <header>
-                Researchers Exchange Participation     About us     how it works      Login  
+                <h1>
+                    Researchers Exchange Participation
+                    
+                </h1>      
+                <ul>    
+                    <li> About us  </li>
+                    <li> how it works </li>
+                    <li> Login       </li>
+                </ul>
             </header>
-        </div>
-        <div class="foot">
-            <footer>
-                @copy; Researchers Exchange Participation changed by sheru
-            </footer>
-        </div>
-    </body>
-</html>
+        
+        
+ 

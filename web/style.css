@@ -1,10 +1,53 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
 body{
-    background-color:#F2F2FF3;
+    background-color:#F2F2F3;
     font-family: Cambria}
 body a{}
-.heading{
+header{
 border: 2px solid black;
-height: 10
-    
+height: 10%;
+width: 100%;
+//position:absolute;
+background-color: #92DCE0;
+padding-top:15px;
+padding-left:15px;
+padding-bottom:60px;
+//overflow-x:scroll;
+//overflow-y:hidden;
+   }
+   header h1{
+       font-size:30px;
+       font-weight:bold;
+   }
+   header ul{
+       font-size:18px;
+       float:right;
+       
+   }
+   header ul li{
+       display:inline;
+       padding-right: 40px;
+   }
+footer{
+ border: 2px solid black;
+ height: 2%;
+ width: 100%;
+ position:absolute;
+ bottom:0%;
+ background-color: #EE4B3E;
+ text-align:center;
+ padding:20px;
+
+
+
+}
+section{
+    border:1px dotted white;
+    width:35%;
+    margin:10%;
 }
 
+#signup tr td{
+    padding: 10px;
+}
