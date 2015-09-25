@@ -42,12 +42,113 @@ footer{
 
 
 }
+#logingin tr td{
+    padding: 10px;
+    }
+#otturabhai{
+        text-align:right;
+    }
+    #kottadi-chesko{
+       margin-bottom:300px;
+       margin-left: 200px;
+       margin-top: 20px;
+    }
 section{
-    border:1px dotted white;
+    font-size:18px;
     width:35%;
-    margin:10%;
+    margin-top:120px;
+    margin-left: 100px;
 }
 
 #signup tr td{
-    padding: 10px;
+    padding: 12px;
 }
+#cheseyrabahi{
+    text-align: right;
+    
+}
+#About-hum{
+    border:1px solid black;
+    padding:20px;
+    margin-top:150px;
+    margin-left:200px;
+    width: 40%;
+    height: 65%;
+    font-size: 18px;
+}
+#workinghowIsay{
+    border:1px solid black;
+    padding:20px;
+    margin-top:150px;
+    margin-left:200px;
+    width: 40%;
+    height: 65%;
+    font-size: 18px;
+}
+ #sollu input{
+    padding:30px 80px;
+ #submission{
+        text-align:right;
+    }   
+}
+
+
+#contact-button{
+    padding: 1px;
+    background-color: bisque;
+    width: 4%;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+#contact-back-button{
+    margin-top: 15px;
+}
+#message-confirmation{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+nav{
+    margin-top: 10px;
+  
+}
+#navigation{
+    //display: inline-block;
+    float: left;
+    width: 14%;
+}
+#navigation ul li {
+   border:1px solid black;
+   //width: 10%;
+   background-color:yellowgreen;
+   font-weight: bold;
+   padding:15px;
+ 
+}
+
+.nav-aboutus{
+       //display: inline-block; 
+    width: 40%;
+    padding:20px;
+    border: 2px solid black;
+    margin-left: 25%;
+    margin-top: 10%;
+    
+    
+   }
+   
+#reference-message{
+   font-style: italic;
+   margin-top: 100px;
+   margin-left: 80px;
+       
+}
+
+#recommend-button{
+    padding: 1px;
+    background-color: bisque;
+    width: 12%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+

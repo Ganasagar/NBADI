@@ -1,7 +1,7 @@
 
 
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+
 <%@include file="header.jsp"%>
 <section>
    <form>
@@ -20,7 +20,10 @@
      </tr>
      <tr>
         <td><label> Confirm Password* </label></td>
-        <td><input type="password" name="password" required></td>
+        <td><input type="password" name="password-confirmation" required></td>
+     </tr>
+     <tr id="cheseyrabahi" >
+         <td colspan="2"> <input type="submit" name="submission" value="Create Account"  </td>
      </tr>
     </table>
    </form>
