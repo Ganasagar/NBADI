@@ -1,6 +1,4 @@
 
-
-<%@include file="header.jsp"%>
 <%@include file="sign-up.jsp"%>
 <!--<div id="section">
 <img src="research.jpg" alt="hadsgaghj"/>

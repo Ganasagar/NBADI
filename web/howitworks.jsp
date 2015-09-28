@@ -1,7 +1,11 @@
 <%@include file="header.jsp"%>
 
 
-<div id="workinghowIsay">
+<div id="site-working">
+    <p id="working-heading">   
+     How it works   
+    </p>
+    
     
 Researchers Exchange Participations is a platform for Researchers to exchange participations <br>
 

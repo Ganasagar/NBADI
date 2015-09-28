@@ -2,7 +2,10 @@
 <%@include file="header.jsp"%>
 
 
-<div id="About-hum">
+<div id="About-site">
+    <p id="about">  
+    About us
+    </p>  
 
 This site is built to help researchers conduct their user studies.<br>
 

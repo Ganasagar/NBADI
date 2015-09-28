@@ -45,10 +45,10 @@ footer{
 #logingin tr td{
     padding: 10px;
     }
-#otturabhai{
+#login-submission{
         text-align:right;
     }
-    #kottadi-chesko{
+    #new-account{
        margin-bottom:300px;
        margin-left: 200px;
        margin-top: 20px;
@@ -56,18 +56,18 @@ footer{
 section{
     font-size:18px;
     width:35%;
-    margin-top:120px;
+    margin-top:4%;
     margin-left: 100px;
 }
 
 #signup tr td{
     padding: 12px;
 }
-#cheseyrabahi{
+#account-creation{
     text-align: right;
     
 }
-#About-hum{
+#About-site{
     border:1px solid black;
     padding:20px;
     margin-top:150px;
@@ -76,7 +76,11 @@ section{
     height: 65%;
     font-size: 18px;
 }
-#workinghowIsay{
+#about{
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+#site-working{
     border:1px solid black;
     padding:20px;
     margin-top:150px;
@@ -84,6 +88,10 @@ section{
     width: 40%;
     height: 65%;
     font-size: 18px;
+}
+#working-heading{
+    font-weight: bold;
+    margin-bottom: 6px;
 }
  #sollu input{
     padding:30px 80px;
@@ -109,15 +117,15 @@ section{
     font-size: 20px;
 }
 nav{
-    margin-top: 10px;
+    margin-top: 60px;
   
 }
-#navigation{
+.navigation{
     //display: inline-block;
     float: left;
     width: 14%;
 }
-#navigation ul li {
+.navigation ul li {
    border:1px solid black;
    //width: 10%;
    background-color:yellowgreen;
@@ -143,8 +151,7 @@ nav{
    margin-left: 80px;
        
 }
-
-#recommend-button{
+.recommend-button{
     padding: 1px;
     background-color: bisque;
     width: 12%;
@@ -152,3 +159,62 @@ nav{
     margin-bottom: 10px;
 }
 
+.studies-table{
+    margin-top: 2%;
+    margin-left: 400px;
+    //margin-right:20px;
+    
+ 
+}
+.table-heading{
+    background-color:black;
+    color: white;
+    
+    
+}
+.row1{
+     background-color:#B2B2CC;
+     //padding:30px;
+ 
+}
+.row2{
+    background-color: white;
+    //padding:30px;
+
+}
+.studies-table tr td{
+    padding:15px;
+}
+.tree-icon{
+   height: 40px;
+   width: 40px;
+}
+#computer-icon{
+    height: 40px;
+    width: 40px;
+}
+#big-tree{
+    height: 350px;
+    width: 220px;
+    margin-left: 15%;
+    margin-top: 6%;   
+}#response-submit{
+    margin-left: 50%;   
+}
+#drop-down{
+    margin-left:46%;
+    
+}
+#survey{
+    margin-left:20%;
+}
+.Add-study{
+    background-color: bisque;
+    width: 9%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+#finaltable tr td{
+    padding: 15px;
+}

@@ -6,7 +6,7 @@
 </div>
 
 <div id="contact-back-button">
-<< Back to Main Page
+&#60; &#60;  Back to Main Page
 </div>
 
 <section id="contacting">

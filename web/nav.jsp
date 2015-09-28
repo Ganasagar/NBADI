@@ -1,6 +1,6 @@
 <%@include file="header.jsp"%>
 
-<nav id="navigation">
+<nav class="navigation">
     <ul>
         <li> Coins (2)  </li>
         <li> Participants (2)  </li>

@@ -25,8 +25,6 @@
                     <li> Login       </li>
                 </ul>
             </header>
-    </body>
-</html>
         
         
  
